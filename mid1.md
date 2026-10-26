@@ -324,5 +324,7 @@ int main(void) {
     return 0;
 }
 ```
+<img width="1192" height="580" alt="image" src="https://github.com/user-attachments/assets/10dd5d8d-eea0-42ce-a1a4-5985fafdc631" />
+
 
 
