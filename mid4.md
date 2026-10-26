@@ -22,3 +22,4 @@ int main() {
 	}
 }
 ```
+<img width="866" height="222" alt="image" src="https://github.com/user-attachments/assets/90d2e306-3231-4841-9d80-6d7107704394" />
