@@ -64,7 +64,6 @@ int main(void) {
         printf("Search query failed: %s\n", err_msg);
         sqlite3_free(err_msg);
     }
-```
     sqlite3_close(db);
     return 0;
 }
