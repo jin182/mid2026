@@ -26,3 +26,4 @@ int main() {
 	printf("%d ball %d strike", b, s);
 }
 ```
+<img width="922" height="182" alt="image" src="https://github.com/user-attachments/assets/e19268eb-1cc4-49f9-987d-d19d19997dae" />
